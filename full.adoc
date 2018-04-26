@@ -1,8 +1,0 @@
-Dieses ist das Rahmendokument
-
-include::part_1.adoc[]
-include::part_2.adoc[]
-
-Ende
-
-Alternatives Ende
